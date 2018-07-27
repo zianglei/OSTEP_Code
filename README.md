@@ -1,2 +1,8 @@
 # OSTEP_Code
-codes appeared in Operating Systems: Three Easy Pieces
+
+## Chapter2
+cpu.c : Simple Example: Code That Loops and Prints
+
+```bash
+gcc -o cpu cpu.c -Wall -include
+```
